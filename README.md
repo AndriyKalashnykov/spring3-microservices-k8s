@@ -47,3 +47,5 @@ Go to the `k8s` directory. You will find there several YAML scripts you need to 
 Just apply those scripts using `kubectl apply`.
 
 You can easily deploy all applications using `skaffold dev` command.
+
+[Original post](https://piotrminkowski.com/2023/06/08/spring-cloud-kubernetes-with-spring-boot-3/)
